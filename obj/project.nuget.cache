@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "LPNmUehY6032VLyDPdQKliMphk6kdUhUbfPSkC84XUSudwWfvIElJ/37XlP0R/KFyOiLZvfZuySwkU/ecoBLGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omen0\\Desktop\\Домашка\\ConsoleApp14\\ConsoleApp14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omen0\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\nunit.console\\3.12.0\\nunit.console.3.12.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\nunit.consolerunner\\3.12.0\\nunit.consolerunner.3.12.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\nunit.runners\\3.12.0\\nunit.runners.3.12.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\nunit3testadapter\\4.2.0\\nunit3testadapter.4.2.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\restsharp\\107.0.2\\restsharp.107.0.2.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\omen0\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

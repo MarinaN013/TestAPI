@@ -1,0 +1,5 @@
+C:\Users\omen0\Desktop\Домашка\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\omen0\Desktop\Домашка\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omen0\Desktop\Домашка\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\omen0\Desktop\Домашка\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\omen0\Desktop\Домашка\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.csproj.CoreCompileInputs.cache
